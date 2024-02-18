@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UfanetApp</string>
+    <string name="surname_text">Отчество</string>
+    <string name="lastname_text">Фамилия</string>
+    <string name="name_text">Имя</string>
+    <string name="phone_text">Номер телефона</string>
+    <string name="address_text">Адрес</string>
+    <string name="active_text">Активный</string>
+    <string name="advanced_text">Продвинутый</string>
+    <string name="modern_text">Современный</string>
+    <string name="cableTv_text">Кабельное ТВ</string>
+    <string name="next_text">Далее</string>
+    <string name="save_text">Сохранить</string>
+    <string name="show_text">Показать</string>
+    <string name="r_month_text">р/мес</string>
+    <string name="mbit_sec_text">Мбит/сек</string>
+
+    <string-array name="cities">
+        <item>Уфа</item>
+        <item>Стерлитамак</item>
+    </string-array>
+
+
+</resources>

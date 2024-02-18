@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018536433494",
+    "project_id": "ufanet-35c7e",
+    "storage_bucket": "ufanet-35c7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018536433494:android:ef33701cf7d530dd5468f7",
+        "android_client_info": {
+          "package_name": "com.fomin.ufanetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpiQ5--rqhPhxV1b5yaAdrD5cKIXrr_8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
